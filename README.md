@@ -5,41 +5,251 @@ Her bir dersin özeti "ozetler" dizininde ayrı bir dosyadadır.
 
 ## Ders Listesi Aşağıdaki gibidir.
 
-| **COURSE ID** | **COURSE TITLE**                                                  | **COURSE URL**                                                                                  | **COURSE DAYS** |
-|---------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------|
-| MATH_01       | Become a Linear Algebra Master                                    | https://havelsan.udemy.com/course/linear-algebra-course/                                        | 17              |
-| MATH_02       | Master statistics  and   machine learning: intuition  math  code  | https://havelsan.udemy.com/course/statsml_x/                                                    | 42              |
-| MATH_03       | Statistics: A Step-by-step Introduction                           | https://havelsan.udemy.com/course/statistics-intro/                                             | 12              |
-| MATH_04       | Mathematical Statistics for Data Science                          | https://havelsan.udemy.com/course/mathstat/                                                     | 4               |
-| ML_01         | Learn Data Science Machine Learning and Neural Networks           | https://havelsan.udemy.com/course/learn-data-science-machine-learning-and-neural-networks/      | 15              |
-| ML_02         | Machine Learning A-Z (Python  and   R in Data Science Course)     | https://havelsan.udemy.com/course/machinelearning/                                              | 46              |
-| ML_03         | Machine Learning 101 with Scikit-learn and StatsModels            | https://havelsan.udemy.com/course/machine-learning-101-with-scikit-learn-and-stats-models/      | 6               |
-| ML_04         | Mastering Machine Learning within Artificial Intelligence         | https://havelsan.udemy.com/course/machine-learning-and-ia/                                      | 8               |
-| ML_05         | Machine Learning Project: Heart Attack Prediction Analysis        | https://havelsan.udemy.com/course/machine-learning-project-heart-attack-prediction-analysis/    | 8               |
-| ML_06         | Data Science Real World Projects in Python                        | https://havelsan.udemy.com/course/data-science-real-world-projects-in-python-x/                 | 14              |
-| ML_07         | Machine Learning Practical: 6 Real-World Applications             | https://havelsan.udemy.com/course/machine-learning-practical/                                   | 8               |
-| ML_08         | Introduction to Machine Learning Models (AI) Testing              | https://havelsan.udemy.com/course/machine-learning-models-ai-testing/                           | 6               |
-| ML_09         | Data Science : Complete Data Science  and   Machine Learning      | https://havelsan.udemy.com/course/complete-data-science-and-machine-learning-using-python/      | 28              |
-| ML_10         | Machine Learning Practical Workout \| 8 Real-World Projects       | https://havelsan.udemy.com/course/deep-learning-machine-learning-practical/                     | 15              |
-| ML_11         | Machine Learning and Deep Learning Bootcamp in Python             | https://havelsan.udemy.com/course/introduction-to-machine-learning-in-python/                   | 31              |
-| DL_01         | Deep Learning A-Z™: Hands-On Artificial Neural Networks           | https://havelsan.udemy.com/course/deeplearning/                                                 | 22              |
-| DL_02         | A deep understanding of deep learning (with Python intro)         | https://havelsan.udemy.com/course/deeplearning_x/                                               | 62              |
-| DL_03         | PyTorch Ultimate: From Basics to Cutting-Edge                     | https://havelsan.udemy.com/course/pytorch-ultimate/                                             | 20              |
-| DL_04         | Practical Deep Learning: Master PyTorch in 15 Days                | https://havelsan.udemy.com/course/deep-learning-practical/                                      | 18              |
-| DL_05         | Generative AI application design and development                  | https://havelsan.udemy.com/course/generative-ai-app-dev/                                        | 25              |
-| MLOPS_01      | MLOps Zero to Hero                                                | https://havelsan.udemy.com/course/mlops-zero-to-hero/                                           | 13              |
-| MLOPS_02      | LLMOps Masterclass 2025 - Generative AI - MLOps - AIOps           | https://havelsan.udemy.com/course/llmops-masterclass-generative-ai-mlops-aiops/                 | 12              |
-| MLOPS_03      | Complete Data Science Machine Learning DL NLP Bootcamp            | https://havelsan.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/      | 70              |
-| LLM_01        | Complete Generative AI Course With Langchain and Huggingface      | https://havelsan.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/ | 60              |
-| LLM_02        | Evaluation for LLM Applications                                   | https://havelsan.udemy.com/course/evaluation-for-llm-applications/                              | 1               |
-| LLM_03        | A deep understanding of AI large language model mechanisms        | https://havelsan.udemy.com/course/dullms_x/                                                     | 89              |
-| LLM_04        | Intro to Large Language Models (LLMs)                             | https://havelsan.udemy.com/course/intro-to-large-language-models-llms/                          | 4               |
-| LLM_05        | Mastering Generative AI: LLM Apps  LangChain  RAG  and   Chatbots | https://havelsan.udemy.com/course/mastering-generative-ai/                                      | 49              |
-| LLM_06        | Generative AI  and   LLMs: Foundations to Hands-on Development    | https://havelsan.udemy.com/course/generative-ai-llms-foundations-to-hands-on-development/       | 2               |
-| LLM_07        | Mastering LLMs with Ollama  LangChain  CrewAI  Hugging Face       | https://havelsan.udemy.com/course/mastering-local-llms-with-ollama-and-python-doing-projects/   | 6               |
-|               |                                                                   |                                                                                                 |                 |
-|               |                                                                   | TOTAL                                                                                           | 713             |
-
+<table cellspacing="0" border="0">
+	<colgroup width="81"></colgroup>
+	<colgroup width="270"></colgroup>
+	<colgroup width="297"></colgroup>
+	<colgroup width="109"></colgroup>
+	<colgroup width="198"></colgroup>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="center" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;COURSE ID&quot;}"><b>COURSE ID</b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;COURSE TITLE&quot;}"><b>COURSE TITLE</b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;COURSE URL&quot;}"><b>COURSE URL</b></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;COURSE DAYS&quot;}"><b>COURSE DAYS</b></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;1.5 X SPEED VIDEO PLAY&quot;}">1.5 X SPEED VIDEO PLAY</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFFFD7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;MATH_01&quot;}">MATH_01</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFFFD7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Become a Linear Algebra Master&quot;}">Become a Linear Algebra Master</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFFFD7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/linear-algebra-course\/&quot;}">https://havelsan.udemy.com/course/linear-algebra-course/</td>
+		<td align="right" valign=bottom sdval="17" sdnum="1033;">17</td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">12</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFE994" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;MATH_02&quot;}">MATH_02</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFE994" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Master statistics  and   machine learning: intuition  math  code&quot;}">Master statistics  and   machine learning: intuition  math  code</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFE994" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/statsml_x\/&quot;}">https://havelsan.udemy.com/course/statsml_x/</td>
+		<td align="right" valign=bottom sdval="42" sdnum="1033;">42</td>
+		<td align="right" valign=bottom sdval="29" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">29</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFB66C" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;MATH_03&quot;}">MATH_03</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFB66C" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Statistics: A Step-by-step Introduction&quot;}">Statistics: A Step-by-step Introduction</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFB66C" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/statistics-intro\/&quot;}">https://havelsan.udemy.com/course/statistics-intro/</td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;">12</td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">9</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;MATH_04&quot;}">MATH_04</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Mathematical Statistics for Data Science&quot;}">Mathematical Statistics for Data Science</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/mathstat\/&quot;}">https://havelsan.udemy.com/course/mathstat/</td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;">4</td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">3</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_01&quot;}">ML_01</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Learn Data Science Machine Learning and Neural Networks&quot;}">Learn Data Science Machine Learning and Neural Networks</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/learn-data-science-machine-learning-and-neural-networks\/&quot;}">https://havelsan.udemy.com/course/learn-data-science-machine-learning-and-neural-networks/</td>
+		<td align="right" valign=bottom sdval="15" sdnum="1033;">15</td>
+		<td align="right" valign=bottom sdval="11" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">11</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFF5CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_02&quot;}">ML_02</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFF5CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Machine Learning A-Z (Python  and   R in Data Science Course)&quot;}">Machine Learning A-Z (Python  and   R in Data Science Course)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFF5CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/machinelearning\/&quot;}">https://havelsan.udemy.com/course/machinelearning/</td>
+		<td align="right" valign=bottom sdval="46" sdnum="1033;">46</td>
+		<td align="right" valign=bottom sdval="31" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">31</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_03&quot;}">ML_03</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Machine Learning 101 with Scikit-learn and StatsModels&quot;}">Machine Learning 101 with Scikit-learn and StatsModels</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/machine-learning-101-with-scikit-learn-and-stats-models\/&quot;}">https://havelsan.udemy.com/course/machine-learning-101-with-scikit-learn-and-stats-models/</td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;">6</td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">5</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFAA95" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_04&quot;}">ML_04</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFAA95" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Mastering Machine Learning within Artificial Intelligence&quot;}">Mastering Machine Learning within Artificial Intelligence</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFAA95" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/machine-learning-and-ia\/&quot;}">https://havelsan.udemy.com/course/machine-learning-and-ia/</td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;">8</td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">6</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_05&quot;}">ML_05</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Machine Learning Project: Heart Attack Prediction Analysis&quot;}">Machine Learning Project: Heart Attack Prediction Analysis</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/machine-learning-project-heart-attack-prediction-analysis\/&quot;}">https://havelsan.udemy.com/course/machine-learning-project-heart-attack-prediction-analysis/</td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;">8</td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">6</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#DEDCE6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_06&quot;}">ML_06</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#DEDCE6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Data Science Real World Projects in Python&quot;}">Data Science Real World Projects in Python</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#DEDCE6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/data-science-real-world-projects-in-python-x\/&quot;}">https://havelsan.udemy.com/course/data-science-real-world-projects-in-python-x/</td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;">14</td>
+		<td align="right" valign=bottom sdval="10" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">10</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#DDDDDD" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_07&quot;}">ML_07</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#DDDDDD" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Machine Learning Practical: 6 Real-World Applications&quot;}">Machine Learning Practical: 6 Real-World Applications</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#DDDDDD" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/machine-learning-practical\/&quot;}">https://havelsan.udemy.com/course/machine-learning-practical/</td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;">8</td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">6</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_08&quot;}">ML_08</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introduction to Machine Learning Models (AI) Testing&quot;}">Introduction to Machine Learning Models (AI) Testing</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/machine-learning-models-ai-testing\/&quot;}">https://havelsan.udemy.com/course/machine-learning-models-ai-testing/</td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;">6</td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">5</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="47" align="left" valign=bottom bgcolor="#FFD8CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_09&quot;}">ML_09</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFD8CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Data Science : Complete Data Science  and   Machine Learning&quot;}">Data Science : Complete Data Science  and   Machine Learning</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFD8CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/complete-data-science-and-machine-learning-using-python\/&quot;}">https://havelsan.udemy.com/course/complete-data-science-and-machine-learning-using-python/</td>
+		<td align="right" valign=bottom sdval="28" sdnum="1033;">28</td>
+		<td align="right" valign=bottom sdval="19" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">19</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_10&quot;}">ML_10</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Machine Learning Practical Workout | 8 Real-World Projects&quot;}">Machine Learning Practical Workout | 8 Real-World Projects</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#D4EA6B" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/deep-learning-machine-learning-practical\/&quot;}">https://havelsan.udemy.com/course/deep-learning-machine-learning-practical/</td>
+		<td align="right" valign=bottom sdval="15" sdnum="1033;">15</td>
+		<td align="right" valign=bottom sdval="11" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">11</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#DEE7E5" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ML_11&quot;}">ML_11</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#DEE7E5" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Machine Learning and Deep Learning Bootcamp in Python&quot;}">Machine Learning and Deep Learning Bootcamp in Python</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#DEE7E5" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/introduction-to-machine-learning-in-python\/&quot;}">https://havelsan.udemy.com/course/introduction-to-machine-learning-in-python/</td>
+		<td align="right" valign=bottom sdval="31" sdnum="1033;">31</td>
+		<td align="right" valign=bottom sdval="21" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">21</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#B3CAC7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;DL_01&quot;}">DL_01</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B3CAC7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Deep Learning A-Z™: Hands-On Artificial Neural Networks&quot;}">Deep Learning A-Z™: Hands-On Artificial Neural Networks</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B3CAC7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/deeplearning\/&quot;}">https://havelsan.udemy.com/course/deeplearning/</td>
+		<td align="right" valign=bottom sdval="22" sdnum="1033;">22</td>
+		<td align="right" valign=bottom sdval="15" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">15</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFFFA6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;DL_02&quot;}">DL_02</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFFFA6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;A deep understanding of deep learning (with Python intro)&quot;}">A deep understanding of deep learning (with Python intro)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFFFA6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/deeplearning_x\/&quot;}">https://havelsan.udemy.com/course/deeplearning_x/</td>
+		<td align="right" valign=bottom sdval="62" sdnum="1033;">62</td>
+		<td align="right" valign=bottom sdval="42" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">42</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;DL_03&quot;}">DL_03</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;PyTorch Ultimate: From Basics to Cutting-Edge&quot;}">PyTorch Ultimate: From Basics to Cutting-Edge</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/pytorch-ultimate\/&quot;}">https://havelsan.udemy.com/course/pytorch-ultimate/</td>
+		<td align="right" valign=bottom sdval="20" sdnum="1033;">20</td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">14</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFDBB6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;DL_04&quot;}">DL_04</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFDBB6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Practical Deep Learning: Master PyTorch in 15 Days&quot;}">Practical Deep Learning: Master PyTorch in 15 Days</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFDBB6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/deep-learning-practical\/&quot;}">https://havelsan.udemy.com/course/deep-learning-practical/</td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;">18</td>
+		<td align="right" valign=bottom sdval="13" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">13</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFF5CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;DL_05&quot;}">DL_05</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFF5CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Generative AI application design and development&quot;}">Generative AI application design and development</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFF5CE" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/generative-ai-app-dev\/&quot;}">https://havelsan.udemy.com/course/generative-ai-app-dev/</td>
+		<td align="right" valign=bottom sdval="25" sdnum="1033;">25</td>
+		<td align="right" valign=bottom sdval="17" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">17</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;MLOPS_01&quot;}">MLOPS_01</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;MLOps Zero to Hero&quot;}">MLOps Zero to Hero</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/mlops-zero-to-hero\/&quot;}">https://havelsan.udemy.com/course/mlops-zero-to-hero/</td>
+		<td align="right" valign=bottom sdval="13" sdnum="1033;">13</td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">9</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFDBB6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;MLOPS_02&quot;}">MLOPS_02</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFDBB6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LLMOps Masterclass 2025 - Generative AI - MLOps - AIOps&quot;}">LLMOps Masterclass 2025 - Generative AI - MLOps - AIOps</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFDBB6" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/llmops-masterclass-generative-ai-mlops-aiops\/&quot;}">https://havelsan.udemy.com/course/llmops-masterclass-generative-ai-mlops-aiops/</td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;">12</td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">9</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="47" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;MLOPS_03&quot;}">MLOPS_03</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Complete Data Science Machine Learning DL NLP Bootcamp&quot;}">Complete Data Science Machine Learning DL NLP Bootcamp</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/complete-machine-learning-nlp-bootcamp-mlops-deployment\/&quot;}">https://havelsan.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/</td>
+		<td align="right" valign=bottom sdval="70" sdnum="1033;">70</td>
+		<td align="right" valign=bottom sdval="47" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">47</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="47" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LLM_01&quot;}">LLM_01</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Complete Generative AI Course With Langchain and Huggingface&quot;}">Complete Generative AI Course With Langchain and Huggingface</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#E8F2A1" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/complete-generative-ai-course-with-langchain-and-huggingface\/&quot;}">https://havelsan.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/</td>
+		<td align="right" valign=bottom sdval="60" sdnum="1033;">60</td>
+		<td align="right" valign=bottom sdval="41" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">41</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#E0C2CD" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LLM_02&quot;}">LLM_02</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#E0C2CD" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Evaluation for LLM Applications&quot;}">Evaluation for LLM Applications</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#E0C2CD" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/evaluation-for-llm-applications\/&quot;}">https://havelsan.udemy.com/course/evaluation-for-llm-applications/</td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;">1</td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">1</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LLM_03&quot;}">LLM_03</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;A deep understanding of AI large language model mechanisms&quot;}">A deep understanding of AI large language model mechanisms</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/dullms_x\/&quot;}">https://havelsan.udemy.com/course/dullms_x/</td>
+		<td align="right" valign=bottom sdval="89" sdnum="1033;">89</td>
+		<td align="right" valign=bottom sdval="60" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">60</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LLM_04&quot;}">LLM_04</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Intro to Large Language Models (LLMs)&quot;}">Intro to Large Language Models (LLMs)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#F6F9D4" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/intro-to-large-language-models-llms\/&quot;}">https://havelsan.udemy.com/course/intro-to-large-language-models-llms/</td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;">4</td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">3</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LLM_05&quot;}">LLM_05</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Mastering Generative AI: LLM Apps  LangChain  RAG  and   Chatbots&quot;}">Mastering Generative AI: LLM Apps  LangChain  RAG  and   Chatbots</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#B4C7DC" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/mastering-generative-ai\/&quot;}">https://havelsan.udemy.com/course/mastering-generative-ai/</td>
+		<td align="right" valign=bottom sdval="49" sdnum="1033;">49</td>
+		<td align="right" valign=bottom sdval="33" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">33</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFFFD7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LLM_06&quot;}">LLM_06</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFFFD7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Generative AI  and   LLMs: Foundations to Hands-on Development&quot;}">Generative AI  and   LLMs: Foundations to Hands-on Development</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFFFD7" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/generative-ai-llms-foundations-to-hands-on-development\/&quot;}">https://havelsan.udemy.com/course/generative-ai-llms-foundations-to-hands-on-development/</td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;">2</td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">2</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="32" align="left" valign=bottom bgcolor="#FFAA95" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LLM_07&quot;}">LLM_07</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFAA95" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Mastering LLMs with Ollama  LangChain  CrewAI  Hugging Face&quot;}">Mastering LLMs with Ollama  LangChain  CrewAI  Hugging Face</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom bgcolor="#FFAA95" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;https:\/\/havelsan.udemy.com\/course\/mastering-local-llms-with-ollama-and-python-doing-projects\/&quot;}">https://havelsan.udemy.com/course/mastering-local-llms-with-ollama-and-python-doing-projects/</td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;">6</td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;" data-sheets-formula="=INT(RC[-1]*2/3)+1">5</td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;TOTAL&quot;}">TOTAL</td>
+		<td align="right" valign=bottom sdval="713" sdnum="1033;" data-sheets-formula="=SUM(R[-32]C:R[-2]C)">713</td>
+		<td align="right" valign=bottom sdval="495" sdnum="1033;" data-sheets-formula="=SUM(R[-32]C:R[-2]C)">495</td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;2 YIL&quot;}">2 YIL</td>
+		<td align="left" valign=bottom data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;1 YIL 5 AY&quot;}">1 YIL 5 AY</td>
+	</tr>
+</table>
 
 ## Bu Derslerin Programlari da Asagidaki gibidir
 
