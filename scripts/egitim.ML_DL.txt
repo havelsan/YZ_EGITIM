@@ -1,0 +1,443 @@
+https://havelsan.udemy.com/course/linear-algebra-course/ (15.5 hours)
+	Operations on one matrix (1.40 h)
+	Operations on two matrices (1 h)
+	matrices as vectors (1.55 h)
+	dot products and cross products (1.15 h)
+	matrix vector products (1.4 h)
+	transformations (1.4 h)
+	inverses (1.4 h)
+	determinants (1.4 h) 
+	transposes (1.4 h)
+	orthogonality and change of basis (1 h)
+	orthonormal basis and gramm-schmidt (1.15 h)
+	eigenvalues and eigenvectors (1.25 h)
+
+https://havelsan.udemy.com/course/machine-learning-data-science-foundations-masterclass/ (16.5 hous)
+	Datastructures fro linear algebra (1.45 h)
+	Tensor operations (1 h)
+	Matrix Properties (1.25 h)
+	Eigenvectors and Eigenvalues (2.15 h)
+	Matrix Operations for machine learning (1.15 h)
+	Limits (1 h)
+	Derivatives and Differentiation (1.25 h)
+	Automatic Differentiation (1.15 h)
+	Partial Derivative Calculus (3.10 h)
+	Inegral Calculus (1 h)
+	Probability (1 h)
+
+https://havelsan.udemy.com/course/statsml_x/ (38.5 hours)
+	Introductions (0.25 h)
+	Math Prerequisites (0.45 h)
+	What is Data (0.55 h)
+	Visualizing Data (2 h)
+	Descriptive Statistics (4.33 h)
+	Data normalizations and outliers (2.32 h)
+	probability theory (4.3 h)
+	hypothessis testing (2.30 h)
+	The t-test family (2.45 h)
+	Confidence intervals on parameters (4.33 h)
+	Correlation (1 h)
+	Analisys of Variance (4 h)
+	Regression (2.45 h)
+	Statistical power and sample sizes (4.33 h)
+	clustering and dimension reduction (2.50 h)
+	signal detection theory (1.25 h)
+	A real-world data journey (1.40 h)
+	
+
+https://havelsan.udemy.com/course/statistics-intro/ (10 hours)
+	Introduction Data and Graphs (1.30 h)
+	Probability (2h)
+	Normal Distributions (1.30 h)
+	One Proportion : Z-test (1 h)
+	Two Proportions : Z-test (0.20 h)
+	One Mean : Z-test, t-test (0.30 h)
+	Two Means : T-test (0.25 h)
+	Confidence Intervals (0.50 h)
+	Chi-Square Tests (0.50 h)
+	Correlation and Simple Linear Regression (1.20 h)
+
+https://havelsan.udemy.com/course/mathstat/ (4 hours)
+	Probability Distributions (0.30 h)
+	Expected Values (0.18 h)
+	Estimators and the method of Moments (0.17 h)
+	Unbiased Estimators (0.24 h)
+	Variance (0.36 h)
+	Maximum Likelihood Estimation (0.48 h)
+	Fisher Information and the Cramer-Lao Lower Bound (0.23 h)
+	Central Limit Theorem (0.29 h)
+	Confidence Intervals (0.27 h)
+
+https://havelsan.udemy.com/course/learn-data-science-machine-learning-and-neural-networks/ (13 hours)
+	Introduction (1 h)
+	Visualizing Data In Python (0.45 h)
+	Linear Algebra (0.37 h)
+	Statistics (0.44 h)
+	Probability in Python (1 h)
+	Inference and Hypothessis (1 h)
+	Gradient Descent (0.36 h)
+	Data Exploration and Working with Data (1.30 h)
+	Introduction to Machine Learning (0.30 h)
+	K-nearest Neighbours (0.40 h)
+	Naive Bayes (0.30 h)
+	Simple Linear Regression (0.23 h)
+	Multiple Regression (1 h)
+	Logistic Regression (0.30 h)
+	Decision Trees (0.50 h)
+	Neural Networks (0.50 h)
+	GPT and LLMs Test (0.30 h)
+
+https://havelsan.udemy.com/course/machinelearning/ (42h)
+	Data preprocessing (2 h)
+	Simple Linear Regression (1.10 h)
+	Multiple Linear Regression (2.15 h)
+	Support Vector Regression (1 h)
+	Decision Tree Regression ( 1 h)
+	Random Forest Regression (0.30 h )
+	Evaluating Regression Models Performance (0.10 h)
+	Regression Model Selection in Python (0.30 h)
+	Logistic Regression ( 2 h)
+	K-Nearest Neighbors (K-NN) (0.40 h)
+	Support Vector Machines (SVM) ( 0.40 h h)
+	Kernel SVM (1 h)
+	Naive Bayes (1.15 h)
+	Decision Tree Classification ( 0.40 h)
+	Random Forest Classification ( 0.30 h)
+	Classification Model selection in python ( 0.30 h)
+	K-Means Clustering (1.30 h)
+	Hierarchical Clustering (1.30 h)
+	Association Rule Learning (3 h)
+	Reinforcement Learning ( 4 h)
+	Natural Language Processing (3 h)
+	Deep Learning ( 0.13 h)
+	Fully Connected (3.30 h)
+	Convolutional Neural Networks (3.15 h)
+	Dimensionality Reduction - PCA (1 h)
+	Dimensionality Reduction - LDA (0.40 h)
+	Kernel PCA (0.30 h)
+	Model Selection and Boosting ( 1.30 h)
+	XGBoost (0.30 h)
+
+https://havelsan.udemy.com/course/machine-learning-101-with-scikit-learn-and-stats-models/ ( 5hours)
+	Linear Regression with StatsModels (2 h)
+	Linear Regression with Sklearn (1 h)
+	Linear Regression - Practical Example (0.40 h)
+	Linear Regression (0.40 h)
+	Cluster Analysis (1 h)
+
+https://havelsan.udemy.com/course/machine-learning-and-ia/ ( 7 hours)
+	Foundations of Machine Learning (0.50 h)
+	Regression Models in Practice (2 h)
+	Classification with Neural Networks (1.30 h)
+	Squence Modelling and Neural Networks ( 0.11 h)
+	Unupervised Learning : clustering and Dimensionality Reduction (1 h)
+	Reinforcement Learning in Action (1.30 h)
+
+https://havelsan.udemy.com/course/machine-learning-project-heart-attack-prediction-analysis/ ( 7 hours)
+	Preparation for exploratory Data Analysis (EDA) in Data Science ( 1 h )
+	Exploratory Data Analysis (EDA) - Uni-vairate Analysis ( 1 h)
+	Exploratory Data Analysis (EDA) - Bi-vairate Analysis (2 h)
+	Preparation for Modeling in Machine Learning (1 .15 h)
+	Modeling for Machine Learning . (1 h)
+
+https://havelsan.udemy.com/course/data-science-real-world-projects-in-python-x/ ( 15 hours)
+	Introduction to Life Cycle of DAta Sceince Project (1.30 h )
+	Project 1 : Predict Fare of Airlines Tickets using Machine Learning ( 6.40 h )
+	Project 2 : Predict Password Strength using NLP (3 h)
+	Project 3 : Movie Recommendation System (2.15 h)
+	Project 4 : Predict Stock Prices using Time Series Analysis (2 h)
+
+
+
+https://havelsan.udemy.com/course/machine-learning-practical/ (8.5 hours)
+	Breast Cancer Classification ( 1.15 h)
+	Fashion class Classification (1.25 h)
+	Directing Customers to Subscription Through App Behavior Analysis (1.20 h )
+	Minimizing Churn Rate Through Analysis of Financial Habits (1.40 h)
+	Predicting the Likelihood of E-Signing a Load Based on Financial History (2 h)
+	Credit Card Fraud Detection (1.20 h)
+
+
+https://havelsan.udemy.com/course/machine-learning-models-ai-testing/ ( 5 hours)
+        Getting staerted (0.30 h)
+	Early Testing Strategies in ML Model Engineering phase (Supervised Learning) (1 h)
+	Unupervised Learning Models Testing in engineering Phase (0.30 h)
+	RL & Commonly used Frameworks and Algos in ML Models (0.22 h)
+	Functional Testing for ML Models in Evaluation phase (1.15 h)
+	Introductiın to API testing on ML Models ( 0.30 h )
+	Reponsible AI Testing with examples on ML (0.30 h)
+	Post Deployment Testing Types with examples on ML Models (0.30 h)
+
+
+https://havelsan.udemy.com/course/complete-data-science-and-machine-learning-using-python/ (26 hours)
+	Introduction   ( 0.13 h )
+	Python (1.45 h )
+	Math (2.30 h)
+	What is Data Sceince and ML ( 0.41 h )
+	Descriptive Statistics ( 0.30 h )
+	Data Visualization (1.30 h)
+	Inferential Statistics, Distributions and Hypothessis (2.15 h)
+	Data Pre-Processing (1.15 h)
+	Simple Linear Regression ( 0.50 h)
+	Multiple Linear Regression (1.10 h )
+	Kaggle Bike Demand Predictions (1.40 h)
+	Logistic Regression (0.40 h)
+	Support Vector Machine (1 h)
+	Decision Trees (0.40 h)
+	Random Forest (0.15 h)
+	Evaluate Classification Models (0.50 h)
+	Univariate Feature Selection (1.15 h)
+	Recursive Feature elimination (0.30 h)
+	Dimensionality Reduction (0.40 h)
+	Regularization ( 1.10 h)
+	Model Selection (1 h)
+	Cross Validation (0.30 h)
+	Hyper parameter tuning for Model Selection (1 h)
+	Deep Learning (2.30 h)
+	Clustering or Cluster analysis (1.10 h)
+
+https://havelsan.udemy.com/course/deep-learning-machine-learning-practical/ (14 hours)
+	Introduction + installation ( 1 h)
+	Project 1 : ANN - Car sales prediction (2 h)
+	Project 2: Deep Neural Networks - CIFAR-10 classification (3 h)
+	Project 3: Prophet time series - chicago crime rate (1 h)
+	Project 4: Prophet time series - avocado market (0.45 h)
+	Project 5: LE-NET DEEP NET - traffic sign classification (1.30 h)
+	Project 6: NLP : Email spam Filter (1.30 h)
+	Project 7: NLP : Yelp reviews (2.15 h)
+	Project 8: User based collaborative filtering : movie recommonder system (1.30 h)
+	
+https://havelsan.udemy.com/course/introduction-to-machine-learning-in-python/ (31.5 hours)
+	ML (0.4 h)
+	Linear Regression ( 0.4 h )
+	Logistic Regression (0.50 h )
+	Cross Validation (0.11 h )
+	KNN (0.41 h)
+	Naive Bayes Classifier (0.50 h)
+	SVM (1.20 h )
+	Decision Trees (1 h )
+	Random Fores (0.40 h )
+	Boosting (0.50 h )
+	PCA (0.40 h )
+	Clsustering (0.05 h )
+	Face Recognition (0.35 h )
+	Feed Forward Neural Networks ( 1.15 h )
+	Feed Forward Neural Networks Impl (0.22 h)
+	Deep Nets (0.03 h)
+	Deep Net Theory (0.50 h)
+	Deep Net Impl (0.31 h)
+	Smile Detector (0.20 h)
+	CNN ( 1 h)
+	Identifying Objects ( 0.35 h)
+	RNN ( 1 h)
+	Transformers (2 h)
+	GANs (0.35 h)
+	GAN Impl (0.40 h)
+	Reinforcement Learning (0.03 h)
+	Markov Decision Process (0.50 h)
+	Exploration and Exploation Problem (0.30 h)
+	QLearning (0.25 h)
+	Tic Tac Toe Example ( 1 h)
+	Deep Q Learning (0.30 h)
+	Tic Tac Toe Example ( 0.30 h)
+	Proximal Policy Optiimization theory (1 h)
+
+https://havelsan.udemy.com/course/deeplearning/ (22 hours)
+	Artificial Neural Networks ( 3 h )
+	Convolutional Neural Networks ( 3.10 h )
+	Recurrent Neural Networks (3.15 h )
+	Self Organizing Maps ( 3 h )
+	Boltzmann Machines ( 4 h )
+	Autoencodes ( 3 h)
+	Annex - ML Baiscs ( 2.30 h)
+
+https://havelsan.udemy.com/course/deeplearning_x/ (27.5)
+	Concepts in Deep Learning (1.50 h)
+	Math, numpy,pytorch ( 3.20 h )
+	Gradient descent ( 2 h )
+	ANNs ( 5.20 h)
+	Overfitting and cross-validation (1.50 h)
+	Regularization (2.40 h) 
+	Metaparameters (hyperparameters) (activations, optimizers) (5 h)
+	Feed Forward Networks (2.15 h)
+	More on data (2.25 h)
+	Measuring model performance ( 1.20 h)
+	FNN milestone projects (1 h)
+	Weight inits and investigations (2.20 h)
+	Autoencoders ( 2 h)
+	Running models on a gpu (0.30 h)
+	Convılution and transformations (3 h)
+	Understand and design CNNs (4.10 h)
+	Transfer Learning (1.50 h)
+	Style transfer (1 h)
+	Generative adverserial networks ( 1.25 h)
+	RNNs (GRU/LSTM) ( 2.50 h)
+	Ethics (0.40 h)
+	Python Intro. ( 8 h)
+
+https://havelsan.udemy.com/course/deep-learning-practical/ (16.5 hours)
+	Foundations of NN (1.10 h )
+	Neuron Training: From Adjusting Parameters to Batch Learning ( 1 h )
+	Single Neuron Regression : Predicting Used Car Prices with Pytorch ( 2.10 h )
+	Neuron Classifier: Spam Detection in SMS (2.10 h)
+	Neural Network Classifier: Student Exam Results Prediction (1.40 h)
+	Loan Approval Classification (0.40 h)
+	Neural Network for Multi-class Classification: Handwritten Digits ( 2.20 h )
+	CNN: Fachion Item Classification (mutli-class) (2.10 h )
+	Transfer Learning with ResNet for Tire Quality Prediction (2.30 h )
+	Depoloyinh AI Models with Gradio: From setup to real-world predictions (0.30 h)
+
+https://havelsan.udemy.com/course/intro-to-large-language-models-llms/ (2.5 hours)
+	Transformers ( 0.40 h )
+	GPT (0.35 h)
+	Hugging Face Transformers (0.30 h)
+	BERT (0.30 h)
+	Text Classification with XLNet (0.30 h)
+
+https://havelsan.udemy.com/course/mastering-generative-ai/ (47 hours)
+        Python Begins (0.50 h )
+        Python Data Structures (0.30 h)
+        Python File Handling (0.30 h)
+        Control Structures (0.30 h)
+        Python for Data Science  ( 1 h )
+        Python for Data Visualization ( 1 h )
+	NLP ( 2.30 h)
+	Word embeddings ( 2 h)
+	NLP NN ( 4 h)
+	Transformers ( 2 h)
+	Encoder Only Architecture (1.20 h)
+	Decoder Only Architecture ( 0.40 h )
+	LLM Basis, Tokens, Context Window, Prompt,Prompt Tuning ( 1 h )
+	RAGs (1.50 h)
+	LangChain (0.11 h)
+	Prompt Engineering (0.30 h)
+	Vector Databases vs Vector Index ( 1.20 h )
+	Model Overview : Ollama, OpenAI, xAI (1.50 h)
+	Fine Tuning (1.50 h)
+	RAG assessment and evaluation metrics (4 h)
+	deployment of gen ai applications (1.50 h)
+	gen ai projects (6 h)
+
+https://havelsan.udemy.com/course/generative-ai-app-dev/ (27 hours)
+	GEN-AI fundementals (2.40 h)
+	GEN-AI applications (1.40 h)
+	Hugging Face models Fundementals (0.50 h)
+	Hugging Face models Advanced (0.50 h)
+	LLM challenges & prompt egineeering (1.30 h)
+	langchain: prompts, chains & LCEL (1.15 h)
+	dealing with structures reponses from LLM (0.50 h)
+	datasets for model training and testing (0.23 h)
+	vectors, embeddings & semantic search ( 3 h)
+	vector databases (1.30 h)
+	conversation user interface (1.30 h)
+	advanced retrieval augmented generation (RAG) (
+	agentic rag
+	buildding workflows and agents with langgraph
+	fine tuning
+	dataset preparation for fine-tuning
+	pre-training and fine tuning with huggingfave trainer
+	quantization
+
+
+https://havelsan.udemy.com/course/mlops-zero-to-hero/ (11 hours)
+	Intro
+	MLOPs in ML lifecycle 
+	Data versioning and DVC
+	Experiment Tracking and MLFlow
+	Fundamentals of Model Deployment and Model Serving
+	Model Deployment and Serving using Virtual Machines
+	Model Deployment and Serving with kubernetes
+	KServer
+	AWS Sagemaker AI
+	CI/CD for models
+
+
+https://havelsan.udemy.com/course/llmops-masterclass-generative-ai-mlops-aiops/ (16.5 hours)
+	Getting started with Generative AI
+	Prompt Engineering
+	Technical details of LLM
+	Building LLM applications using chatgpt
+	packaging the AI / LLM apps
+	deploying the container application with kubernetes
+	github actions
+	CI/CD
+	Introducing Hugging face
+	Monitoring LLM models in production
+	LLMOps basics
+
+
+https://havelsan.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/ (99 hours )
+	Python
+	Statistics
+	Propbability
+	Feature engineeringg
+	ML
+	MLFlow
+	NLP
+	RNN
+	Attention Mechanism and Transformers
+
+
+
+https://havelsan.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/ (57.5 hours)
+	Python, statistics, probability, ML, RNN , Transformers
+	Gen AI and LLM
+	Introduction to Langchain for GEN AI
+	LAngchain and OpenAI
+	Langchain modules
+	Open AI and Olllama
+	LLM app using LCEL
+	Search engine with langchain tools and agents
+	text summarization with langchain
+	text to math problem solver using google gemma 2
+	hugging fave and langchain
+	pdf query RAG with langchain and astradb
+	multilanguage code assistant using code lama
+	deployment
+	hybrid search RAG with vectore database and langchain
+	end-toend finetuning of LLM modesl
+	buiding stateful, multiactor application
+	MCP
+	
+https://havelsan.udemy.com/course/evaluation-for-llm-applications/ ( 1 hour)
+
+https://havelsan.udemy.com/course/dullms_x/ (91 hours)
+	Tokenazations and embeddings
+	LLMs
+	Evaluating LLLMs
+	AI Safety and mechanic interpretability
+	Observation (non-causal) mech interp
+	Intervention (causal) mech interp
+	python
+	deep learning
+
+
+https://havelsan.udemy.com/course/llm-engineering-master-ai-and-large-language-models (58.5 hours)
+	Build your first LLM oproduct
+	Build a Multi-Modal chatbot: LLMs, Gradio UI, Agents
+	Open Source GEN-AI : Autmated solutions with hugging face
+	Evaluating models for code gen and buisness
+	mastering RAG
+	fine tuning
+	build autnımous multiagent system
+
+
+https://havelsan.udemy.com/course/generative-ai-llms-foundations-to-hands-on-development/ (2.5 hours)
+	Understanding Language AI
+	Categories of LLMs
+	Hands-on project
+	Prompt engineering
+	Fine tuning 
+	Toolkits and framwworks
+
+
+https://havelsan.udemy.com/course/mastering-local-llms-with-ollama-and-python-doing-projects/ (5.5 hours)
+	Ollama
+	Langchain
+	CrewAI
+	Huggingface
+
+https://havelsan.udemy.com/organization/search/?src=ukw&q=graph+neural+networks (1 hour)
+
+
+
