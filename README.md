@@ -42,7 +42,7 @@ Her bir dersin özeti "ozetler" dizininde ayrı bir dosyadadır.
 
 
 ## Bu Derslerin Programlari da Asagidaki gibidir
-<div style="width: 1200px;">
+
 | **COURSE ID** | **COURSE TITLE**                                                 | **COURSE URL**                                                                                  | **SESSION**                                                                            | **DURATION** | **COURSE SCHEDULE ( 1H / DAY)** |
 |---------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------|---------------------------------|
 | MATH_01       | Become a Linear Algebra Master                                   | https://havelsan.udemy.com/course/linear-algebra-course/                                        | Getting started                                                                        | 6M           | 1                               |
@@ -632,4 +632,3 @@ Her bir dersin özeti "ozetler" dizininde ayrı bir dosyadadır.
 | LLM_07 | Mastering LLMs with Ollama  LangChain  CrewAI  Hugging Face       | https://havelsan.udemy.com/course/mastering-local-llms-with-ollama-and-python-doing-projects/ | Langchain                                                               | 1H50M | 4-5               |
 | LLM_07 | Mastering LLMs with Ollama  LangChain  CrewAI  Hugging Face       | https://havelsan.udemy.com/course/mastering-local-llms-with-ollama-and-python-doing-projects/ | CrewAI                                                                  | 41M   | 6                 |
 
-</div> 
