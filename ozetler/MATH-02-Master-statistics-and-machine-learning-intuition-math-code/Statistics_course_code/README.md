@@ -1,4 +1,5 @@
 # Statistics_course
+github.com_mikexcohen_Statistics_course
 Code that accompanies my online statistics and machine-learning course:
 https://www.udemy.com/course/statsml_x/?couponCode=202304
 
