@@ -1,26 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202509 
-# ## SECTION: The t-test family
-# ### VIDEO: One-sample t-test
-# #### TEACHER: Mike X Cohen, sincxpress.com
-
-# In[ ]:
-
-
-# import libraries
 import matplotlib.pyplot as plt
 import numpy as np
 import scipy.stats as stats
 
-
-# In[ ]:
-
-
 ## generate the data
-
 # parameters
 N = 20  # sample size
 popMu = .5 # true population mean
@@ -33,10 +15,6 @@ plt.ylabel('Data value')
 plt.show()
 
 ### question: Should there be lines in this plot?
-
-
-# In[ ]:
-
 
 ## "manual" t-test
 
@@ -66,12 +44,7 @@ plt.ylabel('pdf(t)')
 plt.title('t(%g) = %g, p=%g'%(df,tval,pval))
 plt.show()
 
-
-# In[ ]:
-
-
 ## now using the Python function
-
 t,p = stats.ttest_1samp(data,H0val)
 
 print(t,p)
