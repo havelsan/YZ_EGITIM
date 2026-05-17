@@ -1,26 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202509 
-# ## SECTION: Correlation
-# ### VIDEO: Spearman correlation and Fisher-Z
-# #### TEACHER: Mike X Cohen, sincxpress.com
-
-# In[ ]:
-
-
-# import libraries
 import matplotlib.pyplot as plt
 import numpy as np
 import scipy.stats as stats
 
-
-# In[ ]:
-
-
 ## Anscobe's quartet
-
 anscombe = np.array([
      # series 1     series 2      series 3       series 4
     [10,  8.04,    10,  9.14,    10,  7.46,      8,  6.58, ],
@@ -35,7 +17,6 @@ anscombe = np.array([
     [ 7,  4.82,     7,  7.26,     7,  6.42,      8,  6.89, ],
     [ 5,  5.68,     5,  4.74,     5,  5.73,     19, 12.50, ]
     ])
-
 
 # plot and compute correlations
 fig,ax = plt.subplots(2,2,figsize=(6,6))
@@ -52,41 +33,24 @@ for i in range(4):
 plt.show()
 
 
-# In[ ]:
-
-
 ## Fisher-Z transform
-
-
 # simulate correlation coefficients
 N = 10000
 r = 2*np.random.rand(N) - 1
-
 # Fisher-Z
 fz = np.arctanh(r)
-
-
-
 # overlay the Fisher-Z
 y,x = np.histogram(fz,30)
 x = (x[1:]+x[0:-1])/2
 plt.bar(x,y)
-
 # raw correlations
 y,x = np.histogram(r,30)
 x = (x[1:]+x[0:-1])/2
 plt.bar(x,y)
-
-
 plt.xlabel('r / f')
 plt.ylabel('Count')
 plt.legend(('Fisher-Z','Raw r'))
-
 plt.show()
-
-
-# In[ ]:
-
 
 plt.plot(range(N),np.sort(r), 'o',markerfacecolor='w',markersize=7)
 plt.plot(range(N),np.sort(fz),'o',markerfacecolor='w',markersize=7)
