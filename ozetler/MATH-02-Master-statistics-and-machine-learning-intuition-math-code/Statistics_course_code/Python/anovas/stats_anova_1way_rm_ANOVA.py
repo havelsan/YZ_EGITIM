@@ -1,27 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202509 
-# ## SECTION: ANOVA
-# ### VIDEO: One-way repeated-measures ANOVA
-# #### TEACHER: Mike X Cohen, sincxpress.com
-
-# In[ ]:
-
-
-# import libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pingouin as pg
 import pandas as pd
 
-
-# In[ ]:
-
-
 ## data parameters
-
 # group means
 mean1 = 4
 mean2 = 3.8
@@ -32,10 +14,6 @@ N = 30
 
 # standard deviation (assume common across groups)
 stdev = 2
-
-
-# In[ ]:
-
 
 ## now to simulate the data
 data1 = mean1 + np.random.randn(N)*stdev
@@ -48,24 +26,11 @@ datamat = np.vstack((data1,data2,data3)).T
 df = pd.DataFrame(data=datamat,columns=['d1','d2','d3'])
 df
 
-
-# In[ ]:
-
-
-pg.rm_anova(data=df,detailed=True)
-
-
-# In[ ]:
-
-
+rm_anova_1=pg.rm_anova(data=df,detailed=True)
+print(f"rm_anova_1 : \n {rm_anova_1}\n\n")
 df.boxplot();
-
-
-# In[ ]:
-
-
+plt.show()
 ## example from SPSS website
-
 # https://www.spss-tutorials.com/repeated-measures-anova/
 
 data = [
@@ -83,5 +48,6 @@ data = [
 
 df = pd.DataFrame(data=data,columns=['1','2','3','4'])
 
-pg.rm_anova(data=df,detailed=True)
+rm_anova_2=pg.rm_anova(data=df,detailed=True)
 
+print(f"rm_anova_2 : \n {rm_anova_2} \n\n")
