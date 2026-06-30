@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202509 
-# ## SECTION: Clustering and dimension-reduction
-# ### VIDEO: K-means clustering
-# #### TEACHER: Mike X Cohen, sincxpress.com
-
-# In[ ]:
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pylab
@@ -17,14 +5,8 @@ from scipy import stats
 from sklearn.cluster import KMeans
 from mpl_toolkits.mplot3d import Axes3D
 
-
-# In[ ]:
-
-
 ## Create data
-
 nPerClust = 50
-
 # blur around centroid (std units)
 blur = 1
 
@@ -45,10 +27,6 @@ data = np.transpose( np.concatenate((a,b,c),axis=1) )
 plt.plot(data[:,0],data[:,1],'s')
 plt.title('How k-means sees the data')
 plt.show()
-
-
-# In[ ]:
-
 
 ## k-means clustering
 
@@ -75,10 +53,6 @@ plt.plot(C[0],C[1],'mp')
 
 plt.show()
 
-
-# In[ ]:
-
-
 ## determining the appropriate number of clusters (qualitative)
 
 fig,ax = plt.subplots(2,3,figsize=(7,5))
@@ -99,9 +73,6 @@ for k in range(6):
     ax[k].set_xticks([])
     ax[k].set_yticks([])
     ax[k].set_title('%g clusters'%(k+1))
-
-
-# In[ ]:
 
 
 ## number of clusters (quantative)
@@ -127,10 +98,6 @@ plt.plot(np.arange(1,8),sils,'k^-',markerfacecolor='k')
 plt.title('The silhouette test')
 plt.xlabel('Number of clusters')
 plt.show()
-
-
-# In[ ]:
-
 
 ## Try again in 3D
 
@@ -158,11 +125,6 @@ ax.scatter(data[:,0],data[:,1],data[:,2], c = 'b', marker='o')
 plt.title('How k-means sees the data')
 plt.show()
 
-
-# In[ ]:
-
-
-
 k = 3 # how many clusters?
 kmeans = KMeans(n_clusters=k)
 kmeans = kmeans.fit(data)
@@ -181,4 +143,3 @@ for i in range(0,len(data)):
 ax.plot(cents[:,0],cents[:,1],cents[:,2],'ko')
 
 plt.show()
-

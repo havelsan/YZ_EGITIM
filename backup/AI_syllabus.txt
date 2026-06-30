@@ -1,0 +1,139 @@
+
+
+1. Gün — Yapay Zekâ ve Makine Öğrenmesinin Temelleri 
+   1. Yapay Zekâ Ekosistemi 
+      Yapay Zekâ (AI) vs Makine Öğrenmesi (ML) vs Derin Öğrenme (Deep Learning) vs Üretken Yapay Zekâ (Generative AI)
+      Klasik yazılımın bittiği ve makine öğrenmesi sistemlerinin başladığı nokta
+      Makine öğrenmesinin neden "veri + optimizasyon + model" olarak tanımlandığı
+   2. Makine Öğrenmesi Sistemleri Gerçekte Nasıl Çalışır?
+      Veri kümesi → eğitim (training) → model → çıkarım (inference) hattı
+      Eğitim/Test ayrımı (Train/Test Split), aşırı öğrenme (Overfitting) — sezgisel açıklama, yoğun matematik olmadan
+      Kayıp fonksiyonu (Loss Function) sezgisi
+      Özellik mühendisliği (Feature Learning) ve temsil öğrenmesi (Representation Learning)
+   3. Temel Makine Öğrenmesi Türleri (Pratik Bakış Açısı)
+      Denetimli öğrenme (Supervised Learning)
+      Sınıflandırma (Classification)
+      Regresyon (Regression)
+      Denetimsiz öğrenme (Unsupervised Learning)
+      Kümeleme (Clustering)
+      Gömme vektörleri (Embeddings) fikri
+      Pekiştirmeli öğrenme (Reinforcement Learning) — sadece üst düzey bakış
+   4. Sinir Ağları Sezgisi
+      Nöronlar, katmanlar ve aktivasyon fonksiyonları
+      ReLU
+      Softmax (kavramsal olarak)
+      Derin öğrenmenin algılama ve dil görevlerinde neden daha başarılı olduğu
+   5. Uygulamalı Çalışma (Mühendisler için Önemli)
+      Python ile basit bir model eğitme (scikit-learn kullanarak)
+      Örnek:
+       Spam sınıflandırıcısı
+       veya ev fiyatı tahmini
+      Yaklaşık 30–50 satırda tüm işlem hattının gösterilmesi
+
+Kazanım: Katılımcılar makine öğrenmesini teoriden ziyade bir yazılım sistemi olarak anlar.
+
+2. Gün — Büyük Dil Modelleri (LLM), Üretken Yapay Zekâ ve Modern Yapay Zekâ Yığını
+
+   1. ML'den LLM'lere Geçişte Ne Değişti?
+      Kural tabanlı sistemler → Makine Öğrenmesi → Derin Öğrenme → Transformer'lar → LLM'ler
+      Transformer mimarisinin eski NLP yaklaşımlarının yerini alma nedenleri
+   2. Transformer'lar (Mühendis Seviyesinde Açıklama)
+      Dikkat Mekanizması (Attention Mechanism)
+      Kavramsal açıklama
+      Diyagram ile anlatım
+      Token'lar ve gömme vektörleri (Embeddings)
+      Bağlam penceresi (Context Window)
+      LLM'lerin neden iyi ölçeklenebildiği
+   3. LLM'ler Üretim Ortamında Nasıl Çalışır?
+      Ön eğitim (Pretraining) ve ince ayar (Fine-tuning)
+      Çıkarım (Inference) maliyeti ve eğitim maliyeti
+      API kullanımı ve kendi altyapısında çalıştırma (Self-hosting)
+   4. Embeddings 
+      Embedding nedir?
+      Benzerlik araması (Similarity Search)
+      Kosinüs benzerliği (Cosine Similarity) kavramı
+      Kullanım alanları:
+      Anlamsal arama (Semantic Search)
+      Tavsiye sistemleri (Recommendation Systems)
+      RAG sistemleriyle ilişkisi
+   5. Prompt Yazımı (Pratik Bir Mühendislik Yeteneği)
+      Prompt yapısı:
+        Rol (Role)
+        Bağlam (Context)
+        Kısıtlar (Constraints)
+        Çıktı formatı (Output Format)
+      Prompt tasarımında sık yapılan hatalar (Anti-patterns)
+
+   6. RAG (Retrieval-Augmented Generation / Getirme Destekli Üretim)
+      LLM'lerin tek başına neden yeterli olmadığı
+      Mimari:
+        Dokümanlar → Embeddings → Vektör Veritabanı → Getirme (Retrieval) → LLM
+      Araçlar:
+        FAISS
+        Pinecone
+        Weaviate
+      (Kavramsal düzeyde)
+   7. Uygulamalı Laboratuvar
+
+      Basit bir sistem geliştirme:
+        Doküman Soru-Cevap Sistemi (RAG)
+        veya PDF'ler üzerinde çalışan sohbet botu
+
+      Kazanım: Katılımcılar modern yapay zekâ ürünlerinin gerçekte nasıl geliştirildiğini anlar.
+
+3. Gün — Yapay Zekâ Sistemleri Geliştirme, Üretim Ortamı ve Gerçek Kullanım Senaryoları
+   1. Gerçek Yazılım Mimarilerinde Yapay Zekâ
+      Sistem tasarımında yapay zekânın yeri
+      API tabanlı yapay zekâ entegrasyonu
+      LLM destekli mikroservis mimarileri
+   2. LLM Uygulama Kalıpları
+      Sohbet botları (Chatbots)
+      Yapay zekâ yardımcıları (Copilots)
+      Ajanlar (Agents) — temel giriş
+      Fonksiyon çağırma (Function Calling) ve araç kullanımı (Tool Use)
+   3. Yapay Zekâ Ajanları (Güncel Konu)
+      Ajan döngüsü:
+       Planla (Plan)
+       Eyleme geç (Act)
+       Gözlemle (Observe)
+       Tekrar et (Repeat)
+      Ajanların başarılı olduğu durumlar
+      Ajanların başarısız olduğu durumlar
+   4. MLOps ve LLMOps (Mühendisler İçin Önemli)
+      Model sürümleme (Model Versioning)
+      Sapma izleme (Drift Monitoring)
+      Prompt sürümleme
+      Değerlendirme metrikleri:
+       Kalite
+       Gecikme (Latency)
+       Maliyet
+   5. Maliyet, Gecikme ve Ölçekleme
+      Token maliyeti bakış açısı
+      Önbellekleme (Caching) stratejileri
+      Toplu çıkarım (Batch Inference) ve gerçek zamanlı çıkarım (Real-Time Inference)
+   6. Güvenlik ve Riskler (Mühendislik Perspektifi)
+      Prompt enjeksiyonu (Prompt Injection)
+      Veri sızıntısı (Data Leakage)
+      Model halüsinasyonlarının yönetimi
+      Güvenlik korkulukları (Guardrails)
+   7. Final Uygulama Projesi (Birini Seçin)
+      Yapay zekâ destekli kod asistanı benzeri bir sistem
+      PDF Soru-Cevap Sistemi (RAG)
+      Bir ürün için destek sohbet botu
+      LLM kullanan log analiz sistemi
+      Kazanım: Katılımcılar gerçek yapay zekâ destekli sistemleri tasarlayabilir ve prototipleyebilir.
+
+İleri Düzey Konular (Zaman Kalırsa)
+  İnce ayar (Fine-tuning) ve RAG arasındaki tercih ve ödünleşimler
+  Açık kaynak modeller
+    Llama
+    Mistral
+  Vektör veritabanlarına derinlemesine bakış
+  Çok kipli (Multimodal) modeller
+   Metin + Görüntü
+  Ajan çatıları (Agent Frameworks)
+   LangChain
+   LlamaIndex
+  Öğretim Stratejisi Önerisi (Önemli)
+
+

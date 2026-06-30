@@ -1,0 +1,300 @@
+Day 1 — Core AI + Machine Learning Foundations (Engineer-Oriented)
+
+1. AI landscape for engineers (fast but precise)
+   AI vs ML vs Deep Learning vs Generative AI
+   Where classical software ends and ML systems begin
+   Why ML is “data + optimization + models”
+
+2. How ML systems actually work
+   Dataset → training → model → inference pipeline
+   Train/test split, overfitting (intuition, not math-heavy)
+   Loss function intuition
+   Feature vs representation learning
+
+3. Core ML types (practical framing)
+   Supervised learning (classification/regression)
+   Unsupervised learning (clustering, embeddings idea)
+   Reinforcement learning (high-level only)
+
+4. Neural networks intuition
+   Neurons, layers, activations (ReLU, softmax conceptually)
+   Why deep learning works better for perception/language
+
+5. Hands-on (important for engineers)
+   Train a simple model in Python (scikit-learn)
+   Example:
+    spam classifier OR house price prediction
+    Show full pipeline in ~30–50 lines
+
+   Outcome: They understand ML as a software system, not theory.
+
+Day 2 — LLMs, Generative AI, and Modern AI Stack
+
+        This is the MOST important day.
+
+1. What changed: from ML to LLMs
+   Rule-based → ML → deep learning → transformers → LLMs
+   Why transformers replaced older NLP
+
+2. Transformers (engineer-level explanation)
+   Attention mechanism (conceptual + diagram)
+   Tokens and embeddings
+   Context window
+   Why LLMs scale well
+
+3. How LLMs work in production
+   Pretraining vs fine-tuning
+   Inference vs training cost
+   APIs vs self-hosting
+
+4. Embeddings (VERY important for engineers)
+   What embeddings are
+   Similarity search (cosine similarity concept)
+   Use cases:
+    semantic search
+    recommendation systems
+   RAG systems
+
+5. Prompting (practical engineering skill)
+   Prompt structure:
+    role
+    context
+    constraints
+    output format
+   Prompt anti-patterns
+
+6. RAG (Retrieval Augmented Generation)
+
+   This is critical for software engineers.
+
+   Why LLMs alone are not enough
+   Architecture:
+    documents → embeddings → vector DB → retrieval → LLM
+   Tools:
+    FAISS / Pinecone / Weaviate conceptually
+
+7. Hands-on lab
+   Build a simple:
+   document Q&A system (RAG)
+   or chatbot over PDFs
+
+   Outcome: They understand how modern AI products are actually built.
+
+
+Day 3 — Building AI Systems + Production + Real Use Cases
+
+1. AI in real software architecture
+   Where AI sits in system design
+   API-based AI integration
+   Microservices with LLMs
+
+2. LLM application patterns
+   Chatbots
+   Copilots
+   Agents (basic intro)
+   Function calling / tool use
+
+3. AI agents (modern topic)
+   What is an agent loop:
+   plan → act → observe → repeat
+   When agents work / fail
+
+4. MLOps & LLMOps (important for engineers)
+   Versioning models
+   Monitoring drift
+   Prompt versioning
+   Evaluation metrics (quality, latency, cost)
+
+5. Cost, latency, and scaling
+   Token cost thinking
+   Caching strategies
+   Batch vs real-time inference
+
+6. Security and risks (engineering angle)
+   Prompt injection
+   Data leakage
+   Model hallucination handling
+   Guardrails
+
+7. Final hands-on project (choose one)
+   AI code assistant clone
+   PDF Q&A system (RAG)
+   Support chatbot for a product
+   Log analyzer using LLM
+
+Outcome: They can design and prototype real AI-powered systems.
+
+Optional Advanced Topics (if time allows or for Q&A)
+
+   Fine-tuning vs RAG tradeoff
+   Open-source models (Llama, Mistral)
+   Vector databases deep dive
+   Multimodal models (text + image)
+   Agent frameworks (LangChain, LlamaIndex)
+   Teaching Strategy Tip (important)
+
+   Since your audience is experienced engineers:
+
+    Avoid long lectures > 20–25 min
+    Use “architecture-first explanation”
+    Always show:
+      diagram → API flow → code snippet → real use case
+    Emphasize:
+      “How would you build this in production?”
+
+
+
+
+
+---------------------------------
+
+
+
+1. Gün — Yapay Zekâ ve Makine Öğrenmesinin Temelleri 
+   1. Yapay Zekâ Ekosistemi 
+      Yapay Zekâ (AI) vs Makine Öğrenmesi (ML) vs Derin Öğrenme (Deep Learning) vs Üretken Yapay Zekâ (Generative AI)
+      Klasik yazılımın bittiği ve makine öğrenmesi sistemlerinin başladığı nokta
+      Makine öğrenmesinin neden "veri + optimizasyon + model" olarak tanımlandığı
+   2. Makine Öğrenmesi Sistemleri Gerçekte Nasıl Çalışır?
+      Veri kümesi → eğitim (training) → model → çıkarım (inference) hattı
+      Eğitim/Test ayrımı (Train/Test Split), aşırı öğrenme (Overfitting) — sezgisel açıklama, yoğun matematik olmadan
+      Kayıp fonksiyonu (Loss Function) sezgisi
+      Özellik mühendisliği (Feature Learning) ve temsil öğrenmesi (Representation Learning)
+   3. Temel Makine Öğrenmesi Türleri (Pratik Bakış Açısı)
+      Denetimli öğrenme (Supervised Learning)
+      Sınıflandırma (Classification)
+      Regresyon (Regression)
+      Denetimsiz öğrenme (Unsupervised Learning)
+      Kümeleme (Clustering)
+      Gömme vektörleri (Embeddings) fikri
+      Pekiştirmeli öğrenme (Reinforcement Learning) — sadece üst düzey bakış
+   4. Sinir Ağları Sezgisi
+      Nöronlar, katmanlar ve aktivasyon fonksiyonları
+      ReLU
+      Softmax (kavramsal olarak)
+      Derin öğrenmenin algılama ve dil görevlerinde neden daha başarılı olduğu
+   5. Uygulamalı Çalışma (Mühendisler için Önemli)
+      Python ile basit bir model eğitme (scikit-learn kullanarak)
+      Örnek:
+       Spam sınıflandırıcısı
+       veya ev fiyatı tahmini
+      Yaklaşık 30–50 satırda tüm işlem hattının gösterilmesi
+
+Kazanım: Katılımcılar makine öğrenmesini teoriden ziyade bir yazılım sistemi olarak anlar.
+
+2. Gün — Büyük Dil Modelleri (LLM), Üretken Yapay Zekâ ve Modern Yapay Zekâ Yığını
+
+   1. ML'den LLM'lere Geçişte Ne Değişti?
+      Kural tabanlı sistemler → Makine Öğrenmesi → Derin Öğrenme → Transformer'lar → LLM'ler
+      Transformer mimarisinin eski NLP yaklaşımlarının yerini alma nedenleri
+   2. Transformer'lar (Mühendis Seviyesinde Açıklama)
+      Dikkat Mekanizması (Attention Mechanism)
+      Kavramsal açıklama
+      Diyagram ile anlatım
+      Token'lar ve gömme vektörleri (Embeddings)
+      Bağlam penceresi (Context Window)
+      LLM'lerin neden iyi ölçeklenebildiği
+   3. LLM'ler Üretim Ortamında Nasıl Çalışır?
+      Ön eğitim (Pretraining) ve ince ayar (Fine-tuning)
+      Çıkarım (Inference) maliyeti ve eğitim maliyeti
+      API kullanımı ve kendi altyapısında çalıştırma (Self-hosting)
+   4. Embeddings 
+      Embedding nedir?
+      Benzerlik araması (Similarity Search)
+      Kosinüs benzerliği (Cosine Similarity) kavramı
+      Kullanım alanları:
+      Anlamsal arama (Semantic Search)
+      Tavsiye sistemleri (Recommendation Systems)
+      RAG sistemleriyle ilişkisi
+   5. Prompt Yazımı (Pratik Bir Mühendislik Yeteneği)
+      Prompt yapısı:
+        Rol (Role)
+        Bağlam (Context)
+        Kısıtlar (Constraints)
+        Çıktı formatı (Output Format)
+      Prompt tasarımında sık yapılan hatalar (Anti-patterns)
+
+   6. RAG (Retrieval-Augmented Generation / Getirme Destekli Üretim)
+      LLM'lerin tek başına neden yeterli olmadığı
+      Mimari:
+        Dokümanlar → Embeddings → Vektör Veritabanı → Getirme (Retrieval) → LLM
+      Araçlar:
+        FAISS
+        Pinecone
+        Weaviate
+      (Kavramsal düzeyde)
+   7. Uygulamalı Laboratuvar
+
+      Basit bir sistem geliştirme:
+        Doküman Soru-Cevap Sistemi (RAG)
+        veya PDF'ler üzerinde çalışan sohbet botu
+
+      Kazanım: Katılımcılar modern yapay zekâ ürünlerinin gerçekte nasıl geliştirildiğini anlar.
+
+3. Gün — Yapay Zekâ Sistemleri Geliştirme, Üretim Ortamı ve Gerçek Kullanım Senaryoları
+   1. Gerçek Yazılım Mimarilerinde Yapay Zekâ
+      Sistem tasarımında yapay zekânın yeri
+      API tabanlı yapay zekâ entegrasyonu
+      LLM destekli mikroservis mimarileri
+   2. LLM Uygulama Kalıpları
+      Sohbet botları (Chatbots)
+      Yapay zekâ yardımcıları (Copilots)
+      Ajanlar (Agents) — temel giriş
+      Fonksiyon çağırma (Function Calling) ve araç kullanımı (Tool Use)
+   3. Yapay Zekâ Ajanları (Güncel Konu)
+      Ajan döngüsü:
+       Planla (Plan)
+       Eyleme geç (Act)
+       Gözlemle (Observe)
+       Tekrar et (Repeat)
+      Ajanların başarılı olduğu durumlar
+      Ajanların başarısız olduğu durumlar
+   4. MLOps ve LLMOps (Mühendisler İçin Önemli)
+      Model sürümleme (Model Versioning)
+      Sapma izleme (Drift Monitoring)
+      Prompt sürümleme
+      Değerlendirme metrikleri:
+       Kalite
+       Gecikme (Latency)
+       Maliyet
+   5. Maliyet, Gecikme ve Ölçekleme
+      Token maliyeti bakış açısı
+      Önbellekleme (Caching) stratejileri
+      Toplu çıkarım (Batch Inference) ve gerçek zamanlı çıkarım (Real-Time Inference)
+   6. Güvenlik ve Riskler (Mühendislik Perspektifi)
+      Prompt enjeksiyonu (Prompt Injection)
+      Veri sızıntısı (Data Leakage)
+      Model halüsinasyonlarının yönetimi
+      Güvenlik korkulukları (Guardrails)
+   7. Final Uygulama Projesi (Birini Seçin)
+      Yapay zekâ destekli kod asistanı benzeri bir sistem
+      PDF Soru-Cevap Sistemi (RAG)
+      Bir ürün için destek sohbet botu
+      LLM kullanan log analiz sistemi
+      Kazanım: Katılımcılar gerçek yapay zekâ destekli sistemleri tasarlayabilir ve prototipleyebilir.
+
+İleri Düzey Konular (Zaman Kalırsa)
+  İnce ayar (Fine-tuning) ve RAG arasındaki tercih ve ödünleşimler
+  Açık kaynak modeller
+    Llama
+    Mistral
+  Vektör veritabanlarına derinlemesine bakış
+  Çok kipli (Multimodal) modeller
+   Metin + Görüntü
+  Ajan çatıları (Agent Frameworks)
+   LangChain
+   LlamaIndex
+  Öğretim Stratejisi Önerisi (Önemli)
+
+
+20–25 dakikadan uzun teorik anlatımlardan kaçının.
+Önce mimariyi anlatın ("architecture-first approach").
+Her zaman şu sırayı izleyin:
+Diyagram
+API akışı
+Kod örneği
+Gerçek kullanım senaryosu
+Sürekli şu soruyu vurgulayın:
+
+"Bunu üretim ortamında (production) nasıl geliştirir ve işletirdiniz?"
+
