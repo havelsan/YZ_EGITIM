@@ -1,0 +1,18 @@
+Problem :  Predict the noise level of a room by measuring the light level
+
+Tasks : 
+ Collect Data :  Write a python program to record 3-second video every hour (webcam+microphone). Leave the program to record for 3 days.
+
+ Clean the Data : Delete the corrupted files using a python program.
+  
+ Extract sound and images from video  using a python program.
+
+ Use a CNN network that inputs image and predicts sound decibel.
+
+Deliver :
+
+1. Data Visualization using Matplotlib defore and after data cleaning.
+
+2. Python programs.
+
+3. Prediction results with evaluation metrics.
