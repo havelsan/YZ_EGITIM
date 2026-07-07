@@ -108,6 +108,9 @@ Day 3 — Building AI Systems + Production + Real Use Cases
    What is an agent loop:
    plan → act → observe → repeat
    When agents work / fail
+   Agentic RAG
+   Ontology , why it is important and how to build.
+   Agent frameworks (LangCahin/Graph, LlamaIndex)
 
 4. MLOps & LLMOps (important for engineers)
    Versioning models
@@ -136,11 +139,8 @@ Outcome: They can design and prototype real AI-powered systems.
 
 Optional Advanced Topics (if time allows or for Q&A)
 
-   Fine-tuning vs RAG tradeoff
    Open-source models (Llama, Mistral)
-   Vector databases deep dive
    Multimodal models (text + image)
-   Agent frameworks (LangChain, LlamaIndex)
    Teaching Strategy Tip (important)
 
    Since your audience is experienced engineers:
