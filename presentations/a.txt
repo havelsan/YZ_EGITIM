@@ -1,9 +1,0 @@
-ium template decoration of skill/role/context/... md files for my java developer team, is there a github repo
-
-https://github.com/VoltAgent/awesome-agent-skills
-https://github.com/jamestorrevillas/dev-skills
-https://github.com/stride-so/matrix
-https://github.com/awesome-skills/code-review-skill/blob/main/SKILL.md
-https://github.com/kodustech/awesome-agent-skills
-https://github.com/jamestorrevillas/dev-skills
-
